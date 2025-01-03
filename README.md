@@ -70,7 +70,7 @@ cd React-based-Calendar-Application
 
 ## Live Demo
 
-Check out the live version of this app on [Netlify]([https://your-netlify-link.netlify.app](https://calender-applications.netlify.app/)).
+Check out the live version of this app on [Netlify](https://calender-applications.netlify.app/).
 
 ### Install Dependencies
 To install the required dependencies, run the following command:
