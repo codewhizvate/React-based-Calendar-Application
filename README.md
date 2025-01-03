@@ -68,6 +68,10 @@ Clone the repository from GitHub:
 git clone https://github.com/codewhizvate/React-based-Calendar-Application.git
 cd React-based-Calendar-Application
 
+## Live Demo
+
+Check out the live version of this app on [Netlify]([https://your-netlify-link.netlify.app](https://calender-applications.netlify.app/)).
+
 ### Install Dependencies
 To install the required dependencies, run the following command:
 
